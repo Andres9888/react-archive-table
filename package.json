@@ -1,0 +1,47 @@
+{
+  "name": "react-archive-table",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.5",
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.5",
+    "@fortawesome/react-fontawesome": "0.0.18",
+    "ajv-keywords": "^3.1.0",
+    "axios": "^0.18.0",
+    "build": "^0.1.4",
+    "classnames": "^2.2.5",
+    "cssnano": "^4.1.8",
+    "feather-icons": "^4.7.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5",
+    "moment": "^2.21.0",
+    "npm": "^6.6.0",
+    "picnic": "^6.5.0",
+    "react": "^16.2.0",
+    "react-bootstrap-table-next": "^0.1.5",
+    "react-dom": "^16.2.0",
+    "react-edit": "^6.4.0",
+    "react-responsive": "^4.1.0",
+    "react-scripts": "1.1.1",
+    "reactabular-resizable": "^8.12.0",
+    "reactabular-sticky": "^8.12.0",
+    "reactabular-table": "^8.12.1",
+    "redux": "^3.7.2",
+    "searchtabular-antd": "^1.2.0",
+    "selectabular": "^2.1.0",
+    "table-resolver": "^3.2.0",
+    "uuid": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "glob-all": "^3.1.0",
+    "purify-css": "^1.2.5",
+    "purifycss-webpack": "^0.7.0"
+  }
+}
