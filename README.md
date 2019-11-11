@@ -4,9 +4,9 @@ Project can be viewed at http://react-table.andresgutierrez.me/
 
 Was Built on https://reactabular.js.org/#/
 
-Feature of the Project
+-Feature of the Project
 
-Grab from the Company Information from the Database or API
+Grab Company Information from the Database or API
 
 Organize companies by date when they will expire
 
