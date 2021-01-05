@@ -7,7 +7,7 @@
     "@fortawesome/fontawesome-free-webfonts": "^1.0.5",
     "@fortawesome/react-fontawesome": "0.0.18",
     "ajv-keywords": "^3.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "build": "^0.1.4",
     "classnames": "^2.2.5",
     "cssnano": "^4.1.8",
